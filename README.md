@@ -1,7 +1,9 @@
 # DiscordCustomRPC
 
 Create a custom Discord Rich Presence like this:
-![enter image description here](https://pays.host/uploads/dc34e6f5-6b32-4802-bd2f-439332796eca/8AXN90Vy.png)
+
+![Rich Presence in action](https://pays.host/uploads/dc34e6f5-6b32-4802-bd2f-439332796eca/8AXN90Vy.png)
+
 With very easy setup. Just change some variables and off you go!
 
 ## Requirements
@@ -38,4 +40,4 @@ After that follow these steps
 5. Check your Discord if everything is well
 6. Enjoy your custom Rich Presence
 
-![enter image description here](https://www.dragunovmusic.nl/wp-content/uploads/2021/05/DGNV-Black.png)
+![A beautiful logo](https://www.dragunovmusic.nl/wp-content/uploads/2021/05/DGNV-Black.png)
